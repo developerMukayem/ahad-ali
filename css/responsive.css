@@ -1,0 +1,45 @@
+/* XL Device : 1200px. */
+@media (min-width: 1200px) and (max-width: 1500px){
+
+}
+
+/* LG Device : 992px. */
+
+@media (min-width: 992px) and (max-width: 1200px){
+    .headerlogo a img {
+        width: 148%;
+        margin-left: -32%;
+    }
+    .navbar-nav li a {
+        font-size: 10px;
+        margin-left: -17px;
+    }
+    button.btn.btn-brand {
+        display: inline-block;
+        margin-right: 83px;
+    }
+    .slider1 {
+        background-image: url(../img/ahad\ lai\ .png);
+        margin-left: -307px;
+        margin-top: -2px;
+        margin-right: 149px;
+    }
+}
+/* MD Device : 768px. */
+@media (min-width: 768px) and (max-width: 991px){
+.container{width: 750px;}
+}
+
+/* Extra Smaill Device. : 767 */
+@media (max-width: 768px){
+  
+    }
+
+
+/* SM Smaill Device : 550px. */
+@media (min-width: 1200px) and (max-width: 1500px){
+    .container{width: 550px;}
+}
+
+
+
